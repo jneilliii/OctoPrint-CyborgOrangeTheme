@@ -5,7 +5,7 @@ plugin_identifier = "cyborgorangetheme"
 
 plugin_package = "octoprint_cyborgorangetheme"
 
-plugin_name = "OctoPrint-cyborgorangetheme"
+plugin_name = "OctoPrint-CyborgOrangeTheme"
 
 plugin_version = "0.1.0"
 
@@ -15,7 +15,7 @@ plugin_author = "jneilliii"
 
 plugin_author_email = "jneilliii+github@gmail.com"
 
-plugin_url = "https://github.com/jneilliii/OctoPrint-cyborgorangetheme"
+plugin_url = "https://github.com/jneilliii/OctoPrint-CyborgOrangeTheme"
 
 plugin_license = "AGPLv3"
 
