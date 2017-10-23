@@ -1,13 +1,13 @@
 $(function() {
-    function CyborgThemePluginViewModel(parameters) {
+    function CyborgOrangeThemePluginViewModel(parameters) {
         var self = this;
 
-        $("body").eq(0).addClass("OctoPrintTheme-Cyborg")
+        $("body").eq(0).addClass("OctoPrintTheme-CyborgOrange")
         $("#settings_dialog").eq(0).addClass("Cyborgified_Settings")
 
         }	
 		OCTOPRINT_VIEWMODELS.push([
-        CyborgThemePluginViewModel,
+        CyborgOrangeThemePluginViewModel,
 		[]
 		
     ]);

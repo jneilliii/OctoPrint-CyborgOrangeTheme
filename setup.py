@@ -1,21 +1,21 @@
 # coding=utf-8
 
 
-plugin_identifier = "cyborgtheme"
+plugin_identifier = "cyborgorangetheme"
 
-plugin_package = "octoprint_cyborgtheme"
+plugin_package = "octoprint_cyborgorangetheme"
 
-plugin_name = "OctoPrint-CyborgTheme"
+plugin_name = "OctoPrint-cyborgorangetheme"
 
-plugin_version = "0.1.4"
+plugin_version = "0.1.0"
 
 plugin_description = """Bootstrap Cyborg theme ( https://bootswatch.com/2/cyborg/ ) adapted for octoprint."""
 
-plugin_author = "ntoff"
+plugin_author = "jneilliii"
 
-plugin_author_email = ""
+plugin_author_email = "jneilliii+github@gmail.com"
 
-plugin_url = "https://github.com/ntoff/OctoPrint-CyborgTheme"
+plugin_url = "https://github.com/jneilliii/OctoPrint-cyborgorangetheme"
 
 plugin_license = "AGPLv3"
 
