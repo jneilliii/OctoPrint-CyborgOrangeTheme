@@ -97,7 +97,7 @@ table th.settings_plugin_announcements_channels_actions a {
 .OctoPrintTheme-Cyborg a[class*=" icon-download"],
 .OctoPrintTheme-Cyborg a[class^="fa-download"],
 .OctoPrintTheme-Cyborg a[class*=" fa-download"] {
-	color: #fc8003;
+	color: #fc8003f;
 }
 /*Trash icon*/
 .OctoPrintTheme-Cyborg a[class*=" icon-trash"],
@@ -116,6 +116,13 @@ table th.settings_plugin_announcements_channels_actions a {
 /*dear diary, make an actual icon some day*/
 .icon-sd-black-14 {
     background: url(../img/icon-sd-light-14.png) 0 3px no-repeat!important;
+    width: 11px;
+    height: 17px;
+    display: inline-block!important;
+}
+
+.icon-sd-black-14:hover {
+    background: url(../img/icon-sd-light-14-hover.png) 0 3px no-repeat!important;
     width: 11px;
     height: 17px;
     display: inline-block!important;
