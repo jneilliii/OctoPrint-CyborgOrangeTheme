@@ -78,12 +78,12 @@
 	color: #adafae;
 }
 
-/*Border around active tab + top of tab cluster*/
+/*Border around active tab + top of tab cluster + panels */
+.octoprint-container .tab-content,
 .tabbable .nav-tabs,
 .tabbable .nav-tabs li.active > a {
 	border-color: #fc8003;
 }
-
 
 /*API key background fix*/
 #settings_dialog_content > .active canvas,
