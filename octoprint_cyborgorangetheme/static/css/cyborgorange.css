@@ -63,7 +63,7 @@ a.text-error:focus {
 }
 
 .text-info {
-	color: #0099cc;
+	color: #fc8003;
 }
 
 a.text-info:hover,
@@ -398,7 +398,7 @@ textarea[readonly] {
 .control-group.info .control-label,
 .control-group.info .help-block,
 .control-group.info .help-inline {
-	color: #0099cc;
+	color: #fc8003;
 }
 
 .control-group.info .checkbox,
@@ -406,13 +406,13 @@ textarea[readonly] {
 .control-group.info input,
 .control-group.info select,
 .control-group.info textarea {
-	color: #0099cc;
+	color: #fc8003;
 }
 
 .control-group.info input,
 .control-group.info select,
 .control-group.info textarea {
-	border-color: #0099cc;
+	border-color: #fc8003;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -429,9 +429,9 @@ textarea[readonly] {
 
 .control-group.info .input-prepend .add-on,
 .control-group.info .input-append .add-on {
-	color: #0099cc;
+	color: #fc8003;
 	background-color: #eeeeee;
-	border-color: #0099cc;
+	border-color: #fc8003;
 }
 
 input:focus:invalid,
@@ -757,11 +757,11 @@ input[type="button"].btn-block {
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 	background-color: #fc8003;
 	*background-color: #ca6602;
-	background-image: -moz-linear-gradient(top, #0099cc, #ca6602);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0099cc), to(#ca6602));
-	background-image: -webkit-linear-gradient(top, #0099cc, #ca6602);
-	background-image: -o-linear-gradient(top, #0099cc, #ca6602);
-	background-image: linear-gradient(to bottom, #0099cc, #ca6602);
+	background-image: -moz-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#ca6602));
+	background-image: -webkit-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -o-linear-gradient(top, #fc8003, #ca6602);
+	background-image: linear-gradient(to bottom, #fc8003, #ca6602);
 	background-repeat: repeat-x;
 	border-color: #ca6602 #ca6602 #00394d;
 	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
@@ -1098,13 +1098,13 @@ input[type="submit"].btn.btn-mini {
 }
 
 .alert-info {
-	color: #0099cc;
+	color: #fc8003;
 	background-color: #eeeeee;
 	border-color: #dcdcdc;
 }
 
 .alert-info h4 {
-	color: #0099cc;
+	color: #fc8003;
 }
 
 .nav > li > a:hover,
@@ -1996,7 +1996,7 @@ a.badge:focus {
 
 .label-info,
 .badge-info {
-	background-color: #0099cc;
+	background-color: #fc8003;
 }
 
 .label-info[href],
@@ -2670,11 +2670,11 @@ div.subnav-fixed {
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 	background-color: #fc8003;
 	*background-color: #ca6602;
-	background-image: -moz-linear-gradient(top, #0099cc, #ca6602);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0099cc), to(#ca6602));
-	background-image: -webkit-linear-gradient(top, #0099cc, #ca6602);
-	background-image: -o-linear-gradient(top, #0099cc, #ca6602);
-	background-image: linear-gradient(to bottom, #0099cc, #ca6602);
+	background-image: -moz-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#ca6602));
+	background-image: -webkit-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -o-linear-gradient(top, #fc8003, #ca6602);
+	background-image: linear-gradient(to bottom, #fc8003, #ca6602);
 	background-repeat: repeat-x;
 	border-color: #ca6602 #ca6602 #00394d;
 	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
