@@ -81,7 +81,7 @@
 /*Border around active tab + top of tab cluster*/
 .tabbable .nav-tabs,
 .tabbable .nav-tabs li.active > a {
-	border-color: #ddd;
+	border-color: #fc8003;
 }
 
 
