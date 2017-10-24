@@ -571,11 +571,11 @@ table {
 .dropdown-submenu:focus > a {
 	color: #ffffff;
 	background-color: #2ab2e4;
-	background-image: -moz-linear-gradient(top, #fc8003, #1dade2);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#1dade2));
-	background-image: -webkit-linear-gradient(top, #fc8003, #1dade2);
-	background-image: -o-linear-gradient(top, #fc8003, #1dade2);
-	background-image: linear-gradient(to bottom, #fc8003, #1dade2);
+	background-image: -moz-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#ca6602));
+	background-image: -webkit-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -o-linear-gradient(top, #fc8003, #ca6602);
+	background-image: linear-gradient(to bottom, #fc8003, #ca6602);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff33b5e5', endColorstr='#ff1dade2', GradientType=0);
 }
@@ -586,11 +586,11 @@ table {
 	color: #ffffff;
 	text-decoration: none;
 	background-color: #2ab2e4;
-	background-image: -moz-linear-gradient(top, #fc8003, #1dade2);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#1dade2));
-	background-image: -webkit-linear-gradient(top, #fc8003, #1dade2);
-	background-image: -o-linear-gradient(top, #fc8003, #1dade2);
-	background-image: linear-gradient(to bottom, #fc8003, #1dade2);
+	background-image: -moz-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc8003), to(#ca6602));
+	background-image: -webkit-linear-gradient(top, #fc8003, #ca6602);
+	background-image: -o-linear-gradient(top, #fc8003, #ca6602);
+	background-image: linear-gradient(to bottom, #fc8003, #ca6602);
 	background-repeat: repeat-x;
 	outline: 0;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff33b5e5', endColorstr='#ff1dade2', GradientType=0);
