@@ -3,6 +3,7 @@
 /*the "Files" spanner menu dropdown*/
 .octoprint-container .accordion-heading .accordion-heading-button a {
 	color: #fc8003;
+	display: block;
 }
 
 /*the "Files" spanner menu dropdown highlight colour*/
