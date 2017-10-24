@@ -9,7 +9,7 @@
 .Cyborgified_Settings [class*=" icon-"],
 .Cyborgified_Settings [class^="fa-"],
 .Cyborgified_Settings [class*=" fa-"] {
-	color: white;
+	color: #fc8003;
 }
 /*main body
 .OctoPrintTheme-Cyborg [class^="icon-"],
@@ -21,11 +21,11 @@
 /*icon colour in the accordian menus (connection, state, files, etc)*/
 .octoprint-container .accordion-heading [class*=" icon-"],
 .octoprint-container .accordion-heading [class^=icon-] {
-	color: #ccc;
+	color: #fc8003;
 }
 /*the caret thing on the tab overflow dropdown when active*/
 .octoprint-container .nav>.dropdown.active>.dropdown-toggle>.caret  {
-    border-top-color: white;
+    border-top-color: #fc8003;
 }
 /*icon fixes*/
 [class^="icon-"], [class*=" icon-"] {
@@ -65,7 +65,7 @@ table th.settings_plugin_plugin_manager_plugins_actions a,
 table td.settings_plugin_plugin_manager_plugins_actions a,
 table td.settings_plugin_announcements_channels_actions a,
 table th.settings_plugin_announcements_channels_actions a {
-	color: #fff;
+	color: #fc8003;
 }
 /*broad icon colour settings may cause weird issues, be careful*/
 /*golden thingies*/
@@ -97,7 +97,7 @@ table th.settings_plugin_announcements_channels_actions a {
 .OctoPrintTheme-Cyborg a[class*=" icon-download"],
 .OctoPrintTheme-Cyborg a[class^="fa-download"],
 .OctoPrintTheme-Cyborg a[class*=" fa-download"] {
-	color: #02cc00;
+	color: #fc8003;
 }
 /*Trash icon*/
 .OctoPrintTheme-Cyborg a[class*=" icon-trash"],
