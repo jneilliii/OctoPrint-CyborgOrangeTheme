@@ -2456,17 +2456,17 @@ hr {
 	}
 
 	.navbar-inverse .nav-collapse .nav li > a:hover {
-		background-color: #111;
+		background-color: #fc8003;
 	}
 
 	.navbar-inverse .nav-collapse .nav .active > a {
-		background-color: #111;
+		background-color: #fc8003;
 	}
 
 	.navbar-inverse .nav-collapse .nav li.dropdown.open > .dropdown-toggle,
 	.navbar-inverse .nav-collapse .nav li.dropdown.active > .dropdown-toggle,
 	.navbar-inverse .nav-collapse .nav li.dropdown.open.active > .dropdown-toggle {
-		background-color: #111;
+		background-color: #fc8003;
 	}
 
 }
