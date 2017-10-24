@@ -8,7 +8,7 @@
 /*the "Files" spanner menu dropdown highlight colour*/
 .octoprint-container .accordion-heading .accordion-heading-button a:hover {
 	color: #fff;
-	background-color: #2ab2e4;
+	background-color: #fc8003;
 }
 
 /*other drop down menus like the tab overflow menu*/
